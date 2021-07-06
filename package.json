@@ -10,5 +10,9 @@
     "test": "mocha --reporter spec"
   },
   "author": "SpicyZinc <angxin880@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.0.2"
+  }
 }
